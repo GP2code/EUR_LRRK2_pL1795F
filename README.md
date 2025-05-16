@@ -4,7 +4,7 @@
 
 DOI: pending
 
-**Last Updated:** August 2024
+**Last Updated:** May 2025
 
 ## Summary
 The following repository encompasses all scripts developed and used in the manuscript titled _**"The LRRK2 p.L1795F variant causes Parkinson’s disease in the European population"**_. This study provides evidence that the *LRRK2* p.L1795F variant is pathogenic and causative of Parkinson’s disease (PD) in individuals of European ancestry.
@@ -23,7 +23,7 @@ Pre-print link: pending
 
 Whole-genome sequencing (WGS) data and genotyping data used in this study are available through the Global Parkinson’s Genetics Program (GP2) and the Accelerating Medicines Partnership - Parkinson’s Disease (AMP-PD). Specific data sources include:
 
-- GP2 WGS data: Available through GP2 (DOI xxx; release 8).
+- GP2 WGS data: Available through GP2 (DOI 10.5281/zenodo.13755496; release 8).
 - AMP-PD data: Available through AMP-PD tier 2 access.
 - PDGENEration clinical exome data: Available through the Parkinson’s Foundation and GP2 collaboration (DOI xxx; release 8).
 - GP2 NBA data: Available through GP2 (DOI 10.5281/zenodo.10962119; release 7).
@@ -31,8 +31,17 @@ Whole-genome sequencing (WGS) data and genotyping data used in this study are av
 
 ## Repository Orientation
 - The `analyses/` directory includes all analyses discussed in the manuscript.
-- The `figures/` directory includes all figures and supplemental figures referenced in the manuscript *(pending publication)*.
-- The `tables/` directory includes all tables and supplemental tables referenced in the manuscript *(pending publication)*.
+- The `figures/` directory includes all figures and supplemental figures referenced in the manuscript
+- The `tables/` directory includes all tables and supplemental tables referenced in the manuscript
+
+---
+
+## **Citation**
+
+If you use this repository or find it helpful for your research, please cite the corresponding manuscript:
+
+> **The LRRK2 p.L1795F variant causes Parkinson’s disease in the European population**
+> Lange LM et al., 2025 [npj Parkinson's Disease] (DOI: https://doi.org/10.1038/s41531-025-00896-2)
 
 ---
 
@@ -47,16 +56,6 @@ Languages: Bash, R, Python
 | 01_statistical_analyses         | Perform the association of LRRK2 p.L1795F with PD |
 | 02_ibd_inference                | Infer the shared haplotype of LRRK2 p.L1795F carriers using NBA data |
 
-
----
-### Figures and Supplemental Figures
-
-*(pending publication)*
-
----
-### Tables and Supplemental Tables 
-
-*(pending publication)*
 
 ---
 ## Software 
