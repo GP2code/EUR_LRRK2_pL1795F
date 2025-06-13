@@ -3,6 +3,8 @@
 `GP2 ❤️ Open Science 😍`
 
 [![DOI](https://zenodo.org/badge/845054956.svg)](https://doi.org/10.5281/zenodo.15442721)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status - Published](https://img.shields.io/badge/Status-Published-2ea44f)](https://pubmed.ncbi.nlm.nih.gov/39372927/)
 
 **Last Updated:** May 2025
 
@@ -10,8 +12,6 @@
 The following repository encompasses all scripts developed and used in the manuscript titled _**"The LRRK2 p.L1795F variant causes Parkinson’s disease in the European population"**_. This study provides evidence that the *LRRK2* p.L1795F variant is pathogenic and causative of Parkinson’s disease (PD) in individuals of European ancestry.
 
 In this research, we identified the p.L1795F variant in 14 European ancestry patients, using data from over 50,000 individuals across multiple cohorts, including GP2, AMP-PD, PDGENEration, and CENTOGENE. All carriers shared a common genetic background, and their clinical symptoms were consistent with other known *LRRK2* variants. Functional studies show that this variant significantly increases *LRRK2* kinase activity, confirming its role as a pathogenic variant. Although rare, the p.L1795F variant should be considered in genetic testing and targeted clinical trials for PD.
-
-Pre-print link: pending
 
 ### Helpful Links 
 - [GP2 Website](https://gp2.org/)
